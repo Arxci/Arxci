@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">Front End Developer | Software Engineer</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Arxci's GitHub stats](https://github-readme-stats.vercel.app/api?username=arxci&show_icons=true&theme=radical)
 
 - 💬 Ask me about **React**
 
