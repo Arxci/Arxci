@@ -12,7 +12,7 @@
 
 </pre>
 
-<h3 align="center">Languages</h3>
+<h3 align="left">Languages</h3>
 
 <img align="left" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
