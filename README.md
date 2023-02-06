@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">Front End Developer | Software Engineer</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arxci&show_icons=true&theme=radical" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=arxci&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxci&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxci&layout=compact" />
 
+<pre>
+
+
+
+
+</pre>
 
 <img align="left" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
