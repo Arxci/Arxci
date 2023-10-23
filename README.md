@@ -10,9 +10,8 @@
 
 -----
 
-<details>
-  <summary>🧮 about</summary>
-<div>
+
+
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
@@ -25,16 +24,15 @@
   </p>
  </samp>
 </div>
-</details>
+
   
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
+  <h2 align="center"> Github stats </h2>
+  <br/>
+
+<h3 align="center">Languages</h3>
             <p align="center">
         <a href="https://github.com/arxci/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxci&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -48,9 +46,9 @@
           alt="arxci :: Top Langs by commit" />
           </a>
         </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
+
+
+ <h3 align="center">stasistic</h3>
         <p align="center">
           <a href="https://github.com/arxci/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=arxci&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -60,7 +58,6 @@
      <br>
      </samp>
   </div>    
-</details>
 
 </details>
 <br/>
